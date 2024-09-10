@@ -1,0 +1,251 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.home{
+    background-image:url(bg.jpg);
+    overflow: hidden;
+    margin-bottom: 80px;
+}
+.home .first{
+    margin:0 auto;
+    width: 50%;
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+}
+.home h3{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.home p{
+    margin-bottom: 15px;
+}
+.home .btn{
+    border: 0px;
+    padding: 15px 25px;
+    cursor: pointer;
+    margin-bottom: 20rem;
+}
+.home .btn1{
+    background-color: #fceed7;
+}
+.clear{
+    clear: both;
+}
+.second{
+  overflow: auto;
+margin-left: 70px;
+
+  
+}
+.second .clear2{
+    clear: both;
+}
+.second .img{
+    float: left;
+    width: 50%;
+    margin-bottom: 70px;
+}
+.second .img2{
+width: 50%;
+float: left;
+}
+.second .img2 h2{
+padding-bottom: 20px;}
+
+.second .img2 p{
+text-align: left;
+margin-right: 10px;
+padding-bottom: 30px;
+}
+
+
+.second .pic{
+float: left;
+margin-right: 20px;
+
+}
+
+.second .pic2{
+    float: left;
+margin-top: 8px;
+}
+.third{
+background-color: #ecf0f1;
+    overflow: auto;
+    height: 600;
+margin-bottom: 70px;
+}
+.third .one{
+float: left;
+width: 40%;
+margin-top: 140px;
+margin-right: 60px;
+margin-left: 60px;
+font-style: inherit;
+font-weight: 200;
+} 
+.third .clear3{
+    clear: both;
+}
+.one p{
+text-align: left;    
+}
+.third .tow{
+ width: 50%;
+ 
+float: left;}
+.tow img{
+    width: 600;
+height: 440;
+margin-top: 80px;
+margin-right: 60px;}
+.four{
+text-align: center;
+margin-bottom: 70px;
+}
+.four h2{
+font-weight: 600;    
+}
+.four p{
+font-weight: 500;
+}
+.five img{
+ margin: 30px;
+}
+.four .clear4{
+    clear: both;
+}
+.five2{
+overflow: auto;
+text-align: center;
+}
+.five2 .kek{
+float: left;
+width: 30%;
+margin-right: 20px;
+margin-left: 20px;
+}
+.five2 .kek2{
+    float: left;
+    width: 30%;
+    margin-right: 20px;
+
+}
+.five .kek3{
+    float: left;
+    width: 30%;
+}
+.five1{
+    clear: both;
+}
+.six{
+margin-top: 70px;
+height: 650px;
+background-color:#ecf0f1;
+overflow: auto;
+clear: both;
+}
+.six .tools{
+    width: 40%;
+text-align: left;
+float: left;
+margin-top: 50px;
+margin-right: 60px;
+margin-left: 70px;
+}
+.six .tools .stiker{
+    float: left;
+    }
+.six .pstiker{
+    float: left;
+}
+.six .pstiker p{
+margin-left: 20px;
+line-height: 40px;}
+.six .location{
+width: 50%;
+float: left;
+}
+.six .location .map{
+margin-top: 70px;
+margin-left: 40px;
+}
+.six .clear6{
+clear: both;
+}
+.siven{
+overflow: auto;
+height: 450px;
+background-color: #202023;
+}
+.siven h4{
+color: whitesmoke;
+}
+.siven p{
+color: #77767D;
+    
+}
+.clear7{
+    clear: both;
+}
+.siven hr{
+width: 80%;
+color: #343239;
+}
+.siven .last{
+ float: left;
+width: 22%;
+margin-top: 30px;
+margin-right: 20px;
+margin-left: 60px;
+}
+.siven .last1{
+float: left; 
+ width: 22%;
+ margin-top: 30px;
+ margin-right: 20px;
+
+    }
+.siven .last2{
+ float: left; 
+ width: 22%;
+ margin-top: 30px;
+ margin-right: 20px;
+
+     }
+.siven .last3{
+float: left; 
+ width: 22%;
+ margin-top: 30px;
+ margin-right: 20px;
+
+      }
+      .last{
+          width: 100%;
+      }
+.last3 img{
+float: left;
+height: 210px;
+}
+.last3 p{
+margin-left: 40px;
+}
+.last4 img{
+width: 1333px;
+}
+
+@media(min-width:0px) and (max-width:500px){
+    html{font-size: 8px;}
+
+    .home{
+        /* height: ; */
+    }
+}
+
+
+
+
